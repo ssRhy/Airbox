@@ -1,0 +1,5 @@
+json-pose/Pose-pilot/.vscode/
+json-pose/Pose-pilot/1/
+json-pose/Pose-pilot/**/__pycache__/
+json-pose/Pose-pilot/**/*.pyc
+json-pose/Pose-pilot/temp_airbox_processing/
